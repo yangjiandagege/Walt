@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">WALT</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_crash_log">Crash Log</string>                                      
+    <string name="reconnect">Reconnect</string>                                                     
+    <string name="tbd_conn_status">TBD: Conn status</string>                                        
+    <string name="ping">Ping</string>                                                               
+    <string name="ping_over_usb">Ping over USB with 1 byte</string>                                 
+    <string name="resync_clocks">Re-sync clocks</string>                                            
+    <string name="three_point">...</string>                                                         
+    <string name="check_clock_drift">Check clock drift</string>                                     
+    <string name="check_clocks_num">Check how much clocks diverged</string>                         
+    <string name="start_stop_listener">Start/stop listener</string>                                 
+    <string name="clock_sync">Clock sync</string>                                                   
+    <string name="tbd_conn_sync_status">TBD: Connection/sync status</string>                        
+    <string name="tap_latency">Tap latency</string>                                                 
+    <string name="click_to_measure">Click to measure</string>                                       
+    <string name="drag_latency">Drag latency</string>                                               
+    <string name="screen_response">Screen latency</string>                                          
+    <string name="audio_latency">Audio latency</string>                                             
+    <string name="view_log">View log</string>                                                       
+    <string name="about">About</string>                                                             
+    <string name="settings">Settings</string>
+
+</resources>
